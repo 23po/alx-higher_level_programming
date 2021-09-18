@@ -25,5 +25,5 @@ return (1);
 slow = slow->next;
 fast = fast->next->next;
 }
-return (0)
+return (0);
 }
